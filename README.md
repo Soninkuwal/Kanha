@@ -21,15 +21,15 @@
 </p>
 
 ## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••
-[![Stats](https://github-readme-stats.vercel.app/api?username=Rahulsinghcreator&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/Rahulsinghcreator/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Rahulsinghcreator&theme=tokyonight" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulsinghcreator&layout=compact&theme=tokyonight" align="center">
-<img height=300 src="https://github-stats-alpha.vercel.app/api/?username=Rahulsinghcreator&cc=000&tc=fff&ic=fff&bc=000">
-<img width=750 src="https://github-profile-trophy.vercel.app/?username=Rahulsinghcreator&theme=darkhub">
+[![Stats](https://github-readme-stats.vercel.app/api?username=Soninkuwal&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/Soninkuwal/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Soninkuwal&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soninkuwal&layout=compact&theme=tokyonight" align="center">
+<img height=300 src="https://github-stats-alpha.vercel.app/api/?username=Soninkuwal&cc=000&tc=fff&ic=fff&bc=000">
+<img width=750 src="https://github-profile-trophy.vercel.app/?username=Soninkuwal&theme=darkhub">
 
 
 ## Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{Rahulsinghcreator}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Soninkuwal}/count.svg)
 
 
 ## YouTube 
