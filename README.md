@@ -16,8 +16,8 @@
 # Community ❤️
 </p>
 <p align="center">
-<a href="https://instagram.com/Rahulsinghcreator?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/pheonixdeathnote"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://youtube.com/@Rahulsinghcreator?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.instagram.com/kanhakuwal?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/Chatkanhabot"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://youtube.com/@KANHAIYALALMEENAKUWAL?si=h3dCxUvAkberx5vU"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••
